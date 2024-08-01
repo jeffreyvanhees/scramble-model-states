@@ -1,0 +1,22 @@
+{
+    "name": "jeffreyvanhees/scramble-model-states",
+    "description": "Add Spatie's Model States package support for Scramble",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "dedoc/scramble": "^0.11.9",
+        "spatie/laravel-model-states": "^2.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JeffreyVanHees\\ScrambleModelStates\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeffrey van Hees",
+            "email": "jeffvanhees@gmail.com"
+        }
+    ]
+}
