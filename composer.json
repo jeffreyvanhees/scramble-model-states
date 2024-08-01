@@ -1,6 +1,6 @@
 {
     "name": "jeffreyvanhees/scramble-model-states",
-    "description": "Add Spatie's Model States package support for Scramble",
+    "description": "Add Spatie's Model States package support for Scramble (Laravel)",
     "type": "library",
     "require": {
         "php": "^8.0",
