@@ -4,8 +4,8 @@
     "type": "library",
     "require": {
         "php": "^8.0",
-        "dedoc/scramble": "^0.11.9",
-        "spatie/laravel-model-states": "^2.7"
+        "dedoc/scramble": "^0.11.9||^0.12.10",
+        "spatie/laravel-model-states": "^2.11"
     },
     "license": "MIT",
     "autoload": {
